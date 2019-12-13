@@ -1,14 +1,8 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
-}
+            "uid": "b51d9f4e-029f-4944-ae37–36f6adaa0028",
+            "updateDate": "2018-12-08T02:15:00.0Z",
+            "titleText": "How Santa Got His Name",
+            "mainText": "",
+            "streamUrl": "https://www.dl.dropboxusercontent.com/s/lpb58ejunsnctlk/",
+            "redirectionUrl": "www.SantaClaus.com"
+        }
